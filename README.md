@@ -5,17 +5,11 @@
 </h1>
 
 
+
 <p align="center">
   <em>A tribute website dedicated to the life and achievements of Dr. APJ Abdul Kalam</em>
 </p>
 
-<p align="center">
-  <a href="#website-features">Features</a> •
-  <a href="#technologies-used">Technologies Used</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
 
 ---
 
@@ -35,11 +29,11 @@
 
 - **CSS**: Applied styles to enhance the visual appearance of the website and make it more engaging.
 
-- **Visual Studio Code**: The code editor used for development, with the Live Server extension for local testing.
-
 ## 🚀 Usage
 
 1. **Clone the repository**:
 
    ```bash
    git clone https://github.com/your-username/tribute-website.git
+
+## Feel free to further customize the README file to match your project's style and add any additional sections or information you'd like to include.
