@@ -1,0 +1,167 @@
+/* Global Styles */
+.profile-image {
+    max-width: 200px; /* Adjust the size as needed */
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+a {
+    text-decoration: none;
+    color: #337ab7;
+}
+
+/* Header Styles */
+
+header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+    padding: 10px;
+}
+
+/* Main Content Styles */
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #337ab7;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+blockquote {
+    font-style: italic;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-left: 3px solid #337ab7;
+    margin: 0;
+}
+
+/* Footer Styles */
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+}
+
+/* Responsive Styles */
+
+@media screen and (max-width: 600px) {
+    header h1 {
+        font-size: 24px;
+    }
+
+    main {
+        padding: 0 10px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    blockquote {
+        font-size: 14px;
+    }
+
+    footer p {
+        font-size: 12px;
+    }
+    /* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Chat container styles */
+  #chat-container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+  }
+  
+  /* Chat message styles */
+  #chat-messages {
+    padding: 20px;
+    height: 400px;
+    overflow-y: scroll;
+  }
+  
+  .message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .user-message {
+    background-color: #e2e2e2;
+    color: #333;
+  }
+  
+  .bot-message {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  /* Input and button styles */
+  .input-group {
+    margin: 10px;
+  }
+  
+  #message-input {
+    border-radius: 4px;
+  }
+  
+  #send-btn {
+    border-radius: 4px;
+  }
+  
+}
