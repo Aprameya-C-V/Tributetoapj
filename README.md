@@ -21,7 +21,7 @@
 
 - **Quotes**: Get motivated by some of Dr. Kalam's memorable quotes, emphasizing the power of dreams, perseverance, and education.
 
-- **Attractive Design**: The website features a modern and visually appealing design, with a responsive layout that adapts to different screen sizes.
+- **Attractive Design**: The website features a modern and visually appealing design, with a responsive layout that adapts to different screen sizes
 
 ## ⚙️ Technologies Used
 
